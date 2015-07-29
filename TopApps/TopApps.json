@@ -1,0 +1,9 @@
+{
+    "total_count": 1,
+    "foods": [{
+              "food_name": "fish",
+              "article_id": 122
+              }],
+    "table": {"table_id": 60,
+        "table_name": "far left"}
+}
